@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="24x24">
+        <file>icons/24x24/cil-x.png</file>
+        <file>icons/24x24/copy.png</file>
+        <file>icons/24x24/pass_icon.png</file>
+    </qresource>
+</RCC>
